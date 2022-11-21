@@ -1,0 +1,17 @@
+body {
+    font-family: "Open Sans", sans-serif; 
+  }
+  #nav{
+background: #02918b;
+color: #ffffff;
+  }
+  .list_color a{
+    color: #ffffff;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 12px;
+    font-weight: 800;
+  }
+  #dark_font{
+    margin-right: -90px;
+  }
